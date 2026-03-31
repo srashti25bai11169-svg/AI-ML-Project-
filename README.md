@@ -1,7 +1,7 @@
 # AI-ML-Project-
-# 📚 Study Time Suggestion AI
+# Study Time Suggestion AI
 
-## 🧠 Project Overview
+## Project Overview
 
 The **Study Time Suggestion AI** is a simple Python-based project that helps students decide how many hours they should study daily.
 
@@ -15,7 +15,7 @@ This project demonstrates basic **Artificial Intelligence concepts using rule-ba
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * To build a simple AI-based system for study planning
 * To help students manage time effectively
@@ -23,23 +23,23 @@ This project demonstrates basic **Artificial Intelligence concepts using rule-ba
 
 ---
 
-## ⚙️ Features
+##  Features
 
-* 📊 Suggests daily study hours
-* 🎓 Considers subject difficulty (easy/medium/hard)
-* ⏰ Adjusts based on exam urgency
-* 🧩 Simple and user-friendly interface
-* 💡 Provides helpful study tips
+* Suggests daily study hours
+* Considers subject difficulty (easy/medium/hard)
+* Adjusts based on exam urgency
+* Simple and user-friendly interface
+* Provides helpful study tips
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python (No external libraries required)
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 The system uses a **rule-based approach**:
 
@@ -50,7 +50,7 @@ The system uses a **rule-based approach**:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Install Python (if not already installed)
 2. Copy the code into a `.py` file (e.g., `study_ai.py`)
@@ -79,7 +79,7 @@ Difficulty: hard
 Days left: 3  
 ```
 
-## ✅ Example Output
+## Example Output
 
 ```
 Recommended study time: 5 hours/day  
@@ -88,7 +88,7 @@ Tip: Take short breaks to avoid burnout!
 
 ---
 
-## 🧪 Future Improvements
+## Future Improvements
 
 * Add multiple subject planning
 * Generate full weekly timetable
@@ -97,14 +97,14 @@ Tip: Take short breaks to avoid burnout!
 
 ---
 
-## 🗣️ Conclusion
+## Conclusion
 
 This project demonstrates how basic AI concepts can be used to solve real-life problems like time management.
 It is simple, efficient, and can be expanded into a more advanced system.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 * Srashti Tomar
 * Registration Number 25BAI11169
